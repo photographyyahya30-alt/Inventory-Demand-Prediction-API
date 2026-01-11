@@ -1,15 +1,15 @@
-# 📦 Inventory Demand Forecasting System
+#  Inventory Demand Forecasting System
 
 An end-to-end Machine Learning system designed to predict **inventory demand (units sold)** using historical retail data.
 
 The system is built with:
-- 🚀 FastAPI for backend inference
-- 🎯 XGBoost Machine Learning model
-- 🎨 Streamlit web application for user interaction
+-  FastAPI for backend inference
+-  XGBoost Machine Learning model
+-  Streamlit web application for user interaction
 
 ---
 
-## 🧠 Problem Overview
+##  Problem Overview
 Accurate demand forecasting helps businesses:
 - Reduce stock shortages
 - Avoid overstocking
@@ -19,4 +19,4 @@ This project predicts the expected number of units sold based on product, store,
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
